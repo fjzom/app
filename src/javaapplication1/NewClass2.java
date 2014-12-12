@@ -10,5 +10,6 @@ package javaapplication1;
  * @author Fabrica
  */
 public class NewClass2 {
+    int i = 0;
     
 }
