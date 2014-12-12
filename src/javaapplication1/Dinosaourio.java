@@ -23,6 +23,7 @@ public class Dinosaourio implements Serializable {
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
     private String Patas;
+    private String Cola;
 
     public Long getId() {
         return id;
