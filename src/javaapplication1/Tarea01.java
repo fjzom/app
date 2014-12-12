@@ -10,10 +10,13 @@ import java.util.Scanner;
  */
 
 /**
- *
+ * 
+ * 
+ * 
+ * 
  * @author mipc
  */
-public class Tarea01 {
+public class Tarea01 { 
     
     static void muestramatriz(float matriz[][], int var) {
         for (int x = 0; x < var; x++) {

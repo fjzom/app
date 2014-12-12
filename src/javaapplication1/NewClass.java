@@ -4,22 +4,16 @@
  * and open the template in the editor.
  */
 package javaapplication1;
-
-/**
- *asdafasdasdf
- * @author 7
- */
-public class JavaApplication1 {
-
     /**
      * @param args the command line arguments
      * sasas
      */
-    public static void main(String[] args) {
-        // TODO code application logic here
-        
-        System.out.println("ho la bgv dsfg");
-        
-    }
+/**
+ *
+ * @author software
+ */
+public class NewClass {
+          
+    
     
 }
