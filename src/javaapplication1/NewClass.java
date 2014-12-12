@@ -13,6 +13,7 @@ package javaapplication1;
  * @author software
  */
 public class NewClass {
+    int i = 0;
           
     
     
