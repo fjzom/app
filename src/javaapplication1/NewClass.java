@@ -12,6 +12,8 @@ package javaapplication1;
  *
  * @author software
  */
+ 
+ //This is an issue that will be commited and relected on jira.
 public class NewClass {
     int i = 0;
           
